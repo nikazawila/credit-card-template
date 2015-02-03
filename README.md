@@ -1,9 +1,15 @@
-Credit Card Template
-====================
+# Credit Card Template
 
 [![Credit Card Template](https://raw.githubusercontent.com/nikazawila/credit-card-template/master/preview.jpg)](http://nikazawila.github.io/credit-card-template/)
 
-Visit to learn more: http://nikazawila.github.io/credit-card-template/
+See more at: http://nikazawila.github.io/credit-card-template/
+
+## Inside:
+
+Small and independent module written in **Sass** which is easy to extend and/or customize.
+It uses BEM methodology to organize the code.
+
+Have a go and use it!
 
 ---
 
