@@ -1,9 +1,15 @@
-BEM Buttons
-===========
+# Credit Card Template
 
-Buttons scaffold written in a BEM-friendly way
+[![Credit Card Template](https://raw.githubusercontent.com/nikazawila/credit-card-template/master/preview.jpg)](http://nikazawila.github.io/credit-card-template/)
 
-Visit to learn more: http://nikazawila.github.io/bem-buttons/
+See more at: http://nikazawila.github.io/credit-card-template/
+
+## Inside:
+
+Small and independent module that is easy to extend and/or customize, written in **Sass**.  
+It uses **BEM methodology** to organize the code.
+
+Have a go and use it!
 
 ---
 
@@ -11,7 +17,7 @@ Visit to learn more: http://nikazawila.github.io/bem-buttons/
 
 The MIT license
 
-Copyright &copy; 2014 [Nika Zawila](http://nikazawila.com)
+Copyright &copy; 2015 [Nika Zawila](http://nikazawila.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
