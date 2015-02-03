@@ -1,7 +1,7 @@
 Credit Card Template
 ====================
 
-![Credit Card Template](https://raw.githubusercontent.com/nikazawila/credit-card-template/master/preview.jpg)
+[![Credit Card Template](https://raw.githubusercontent.com/nikazawila/credit-card-template/master/preview.jpg)](http://nikazawila.github.io/credit-card-template/)
 
 Visit to learn more: http://nikazawila.github.io/credit-card-template/
 
