@@ -1,0 +1,22 @@
+// --- base -------------------------------------------------------------------
+
+body {
+  font: 16px "Helvetica Neue", Helvetica, sans-serif;
+  background: #F9FBFF;
+  color: #666;
+  -webkit-font-smoothing: antialiased;
+}
+
+.gist .gist-file {
+  margin-bottom: 0 !important;
+}
+
+.gist .line-data {
+  text-align: left;
+}
+
+// --- links ------------------------------------------------------------------
+
+a {
+  color: #000;
+}

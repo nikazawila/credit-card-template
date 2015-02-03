@@ -1,0 +1,23 @@
+// --- header -----------------------------------------------------------------
+
+.header {
+  text-align: center;
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px 0;
+  font-weight: 200;
+
+  &__title {
+    font-size: 50px;
+    color: #333;
+  }
+
+  &__subtitle {
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+
+  &__body {
+    min-height: 32px;
+  }
+}
