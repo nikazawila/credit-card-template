@@ -6,8 +6,8 @@ See more at: http://nikazawila.github.io/credit-card-template/
 
 ## Inside:
 
-Small and independent module written in **Sass** which is easy to extend and/or customize.
-It uses BEM methodology to organize the code.
+Small and independent module that is easy to extend and/or customize, written in **Sass**.
+It uses **BEM methodology** to organize the code.
 
 Have a go and use it!
 
